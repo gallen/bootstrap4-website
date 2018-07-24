@@ -33,7 +33,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 /*header style*/
 .header{
 	position: relative;
-	background-image: url('../images/headerback.jpg');
+	background-image: url('https://cdn.glitch.com/02de87eb-56b7-40b7-9b67-49155fd7edb4%2Fdavinci.jpeg?1532467957127');
 
 	background-size: cover;
 	background-position: center;
